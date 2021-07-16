@@ -14,7 +14,6 @@ RUN pip install -U geopandas \
                    fiona \
                    six \
                    pyproj \
-                   numexpr==2.6.4 \
                    elasticsearch \
                    geojson \
                    plotly \
